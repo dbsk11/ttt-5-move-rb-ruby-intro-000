@@ -2,5 +2,5 @@
 
 require_relative '../lib/move.rb'
 
-def board
+def variable[board]
 end
